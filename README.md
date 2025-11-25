@@ -1,10 +1,12 @@
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BC13FE&center=false&vCenter=false&random=false&width=524&lines=Hi,+I'm+Filippa!+%E2%8A%B9" alt="Typing SVG">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BC13FE&center=false&vCenter=false&random=false&width=524&lines=Hi,+I'm+Filippa!+%E2%8A%B9"
+      alt="Typing SVG"
+      style="display: block; margin: 0; padding: 0;"
+    >
   </a>
 </div>
-
-<img align="center" alt="" src="./src/header-gif.gif">
 
 I'm 22 years old and originally from Stockholm, Sweden. I'm currently studying Systems Analysis and Development at IFSP São Carlos, where I'm constantly exploring the tech world and improving my skills. I'm passionate about technology, curious by nature and always excited to learn new tools that help me grow as a developer. Here on GitHub, you'll find my projects, studies, and everything I'm building along the way!
 
